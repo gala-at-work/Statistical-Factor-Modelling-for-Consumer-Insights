@@ -20,7 +20,7 @@ Factor Loadings: Identified which product characteristics are strongly associate
 
 Perceptual Mapping: Provides a visual comparison of how the 12 cereal brands are perceived relative to competitors.
 
-**Findings from the Analysis**
+## Findings from the Analysis
 Insight 1: Health and Nutrition Form a Strong Consumer Perception Dimension
 Health, Nutritious, Fibre, and Natural showed strong positive loadings on Factor 1 (approximately 0.75–0.83 after rotation).
 
